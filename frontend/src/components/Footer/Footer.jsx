@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum in, beatae dolorem non optio cupiditate, quam sunt dicta dolores minima exercitationem ducimus totam aut asperiores inventore harum laudantium. Distinctio, libero.</p>
+                <p>Tomatoes are not only a delicious addition to many dishes but also packed with vitamins and antioxidants that are beneficial for health.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
@@ -27,15 +27,15 @@ const Footer = () => {
             <div className="footer-content-right">
                 <h2>GET IN TOUCH</h2>
                 <ul>
-                    <li>+94 765489545</li>
-                    <li>dulanjalisenarathna93@gmail.com</li>
+                    <li>+91 7004870552</li>
+                    <li>shahilkumaraz@gmail.com</li>
                 </ul>
             </div>
            
         </div>
         <hr />
         <p className="footer-copyright">
-            Copyright 2024 &copy; Dulanjali - All Right Reserved.
+            Copyright 2025 &copy; Shahil - All Right Reserved.
         </p>
     </div>
   )
